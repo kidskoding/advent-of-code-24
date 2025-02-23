@@ -1,0 +1,2 @@
+this is a sample file
+try reading from this file in go!

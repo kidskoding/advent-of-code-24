@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"advent-of-code-24/src"
+)
 
 func main() {
-	fmt.Println("Hello, World!")
+	src.ReadFromFile("input/sample_file.txt")
 }
