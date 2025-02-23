@@ -11,8 +11,8 @@ import (
 	"strings"
 )
 
-func Run() {
-	filename := "input/day_1_1.txt"
+func RunDay1() {
+	filename := "input/day_1.txt"
 
 	file, err := os.Open(filename)
 	if err != nil {
