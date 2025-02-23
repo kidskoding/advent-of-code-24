@@ -6,7 +6,7 @@ import (
 	"log"
 )
 
-func ReadFromFile(filename string) {
+func Day0(filename string) {
 	filepath := filename
 
 	data, err := ioutil.ReadFile(filepath)
