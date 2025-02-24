@@ -13,4 +13,6 @@ func main() {
 	src.RunDay3()
 	fmt.Println()
 	src.RunDay5()
+	fmt.Println()
+	src.RunDay7()
 }
